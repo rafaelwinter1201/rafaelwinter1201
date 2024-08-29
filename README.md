@@ -1,3 +1,6 @@
+
+![Meu-Dash](https://github.com/user-attachments/assets/266cfaa9-b5b3-4cb6-b98f-ec00acb071dd)
+
 ### Olá! eu sou o Rafael. 👋
 
 - 🤔 O que eu quero ser? Estou estudando para me tornar um grande desenvolvedor!
